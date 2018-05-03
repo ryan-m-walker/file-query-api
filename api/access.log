@@ -1,8 +1,0 @@
-::ffff:127.0.0.1 - - [02/May/2018:18:51:44 +0000] "GET /search/test HTTP/1.1" 200 218
-::ffff:127.0.0.1 - - [02/May/2018:18:51:45 +0000] "GET /data/Layers.pdf HTTP/1.1" 200 52
-::ffff:127.0.0.1 - - [02/May/2018:18:52:13 +0000] "GET /search/anaprod HTTP/1.1" 200 165
-::ffff:127.0.0.1 - - [02/May/2018:18:52:14 +0000] "GET /data/ANAProducers-css-only-screenshots.pdf HTTP/1.1" 304 -
-::ffff:127.0.0.1 - - [02/May/2018:18:53:54 +0000] "GET /data/ANAProducers-css-only-screenshots.pdf HTTP/1.1" 304 -
-::ffff:127.0.0.1 - - [02/May/2018:18:53:54 +0000] "GET /ANAProducers-css-only-screenshots.pdf HTTP/1.1" 404 176
-::ffff:127.0.0.1 - - [02/May/2018:18:54:15 +0000] "GET /data/ANAProducers-css-only-screenshots.pdf HTTP/1.1" 200 102
-::ffff:127.0.0.1 - - [02/May/2018:18:54:15 +0000] "GET /document/ANAProducers-css-only-screenshots.pdf HTTP/1.1" 200 1232333
